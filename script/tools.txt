@@ -1,5 +1,0 @@
-IDEA Plugins
-
-    Translate
-    jclasslib
-
